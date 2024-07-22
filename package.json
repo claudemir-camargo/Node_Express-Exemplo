@@ -1,0 +1,15 @@
+{
+  "name": "exemplonode2",
+  "version": "1.0.0",
+  "description": "Teste node 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ander Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.10.3"
+  }
+}
